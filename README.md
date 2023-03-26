@@ -38,7 +38,7 @@
 - **Variance** For Two Populations
 
 ## Utilized Statistical Distribution Types:
-1. Z-Distribution
-2. T-Distribution
-3. Chi-Square Distribution
-4. F-Distribution
+- Z-Distribution
+- T-Distribution
+- Chi-Square Distribution
+- F-Distribution
