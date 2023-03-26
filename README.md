@@ -5,9 +5,13 @@
 
 ## Python Libraries Used:
 - NumPy
+  - Modulized Division, Multiplication, Exponents, and Square Root
 - Math
+  - Same as NumPy
 - SciPy
+  - Distribution Types Data (Z-Distribution, T-Distribution, etc.)
 - Colorma (Fore, Back, Style)
+  - Adding Color to the Font
 
 ## Project Description:
 - The goal of this project is to develop a program that can perform hypothesis testing for various statistical scenarios. 
