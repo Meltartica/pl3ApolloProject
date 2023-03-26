@@ -1,16 +1,16 @@
 # Hippopotamus (Hypothesis Testing Calculator)
 
 ## Programming Language:
-- Python
+- [Python](https://www.python.org/)
 
 ## Python Libraries Used:
-- NumPy
+- [NumPy](https://numpy.org/)
   - Modulized Division, Multiplication, Exponents, and Square Root
-- Math
+- [Math](https://docs.python.org/3/library/math.html)
   - Same as NumPy
-- SciPy
+- [SciPy](https://scipy.org/)
   - Distribution Types Data (Z-Distribution, T-Distribution, etc.)
-- Colorma (Fore, Back, Style)
+- [Colorma](https://github.com/tartley/colorama) (Fore, Back, Style)
   - Adding Color to the Font
 
 ## Project Description:
