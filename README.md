@@ -36,3 +36,9 @@
 - **Case F**: Paired Observation
 - **Test for Proportions**: Two Population
 - **Variance** For Two Populations
+
+## Utilized Statistical Distribution Types:
+- Z-Distribution
+- T-Distribution
+- Chi-Square Distribution
+- F-Distribution
