@@ -41,7 +41,7 @@
 - **Test for Proportions**: Two Population
 - **Variance** For Two Populations
 
-## Utilized Statistical Distribution Types:
+## Utilized Statistical Distribution Table Types:
 - Z-Distribution
 - T-Distribution
 - Chi-Square Distribution
