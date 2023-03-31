@@ -16,7 +16,6 @@
 ## Project Description:
 - The goal of this project is to develop a program that can perform hypothesis testing for various statistical scenarios. 
 - The program should take in user inputs for the statistical data, the level of significance, and the type of test. 
-- The program will handle a range of statistical scenarios, including one-sample tests, two-sample tests, chi-squared tests, and more.
 - The program will used the given data to get the scores and critical point then summing up with either rejecting or accepting the null hypothesis.
 - Based on these inputs, the program should calculate the test statistic and the p-value and interpret the results.
 
