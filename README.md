@@ -34,7 +34,7 @@
 - **Variance** For Single Population"
 
 ### Two Population
-- **Case C**: Two Mean Big Sample Size or Population Stnadard Deviation is Given
+- **Case C**: Two Mean Big Sample Size or Population Standard Deviation is Given
 - **Case D**: Two Mean Small Sample Size and Population Sample Standard Deviation assumed Equal
 - **Case E**: Two Mean Small Sample Size and Population Sample Standard Deviation not Equal
 - **Case F**: Paired Observation
