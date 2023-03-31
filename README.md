@@ -46,3 +46,6 @@
 - T-Distribution
 - Chi-Square Distribution
 - F-Distribution
+
+## Hierarchy Chart
+![Hierarchy Chart](https://github.com/Meltartica/pl3ApolloProject/blob/main/Hierarchy%20Chart.png)
