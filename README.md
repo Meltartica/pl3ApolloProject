@@ -17,7 +17,6 @@
 - The goal of this project is to develop a program that can perform hypothesis testing for various statistical scenarios. 
 - The program should take in user inputs for the statistical data, the level of significance, and the type of test. 
 - The program will used the given data to get the scores and critical point then summing up with either rejecting or accepting the null hypothesis.
-- Based on these inputs, the program should calculate the test statistic and the p-value and interpret the results.
 
 ## Key Features:
 - User-friendly interface for inputting statistical data and hypotheses
