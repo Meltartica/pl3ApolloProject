@@ -49,6 +49,6 @@
 ![Hierarchy Chart](https://github.com/Meltartica/pl3ApolloProject/blob/main/Hierarchy%20Chart.png)
 
 ## Flowchart
-![Part 1](Flowchart/Part 1 - New.png)
+![Part 1](https://github.com/Meltartica/pl3ApolloProject/blob/a876bfdee1e5d0e7a4f4ebf15c0453255abf5b9f/Flowchart/Part%201%20-%20New.png)
 ![Part 2](https://github.com/Meltartica/pl3ApolloProject/blob/main/Flowchart/Part%202.png)
 ![Part 3](https://github.com/Meltartica/pl3ApolloProject/blob/main/Flowchart/Part%203.png)
