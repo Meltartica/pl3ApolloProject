@@ -1,7 +1,7 @@
 # Hippopotamus (Hypothesis Testing Calculator)
 
 ## Programming Language:
-- [Python](https://www.python.org/)
+- [Python](https://www.python.org/) with [Conda Kernel](https://www.anaconda.com/products/distribution)
 
 ## Python Libraries Used:
 - [NumPy](https://numpy.org/)
