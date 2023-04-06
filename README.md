@@ -10,7 +10,7 @@
   - Same as NumPy
 - [SciPy](https://scipy.org/)
   - Distribution Types Data (Z-Distribution, T-Distribution, etc.)
-- [Colorma](https://github.com/tartley/colorama) (Fore, Back, Style)
+- [Colorma](https://github.com/tartley/colorama) (Fore, Style)
   - Adding Color to the Font
 
 ## Project Description:
