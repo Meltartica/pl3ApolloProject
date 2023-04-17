@@ -6,6 +6,8 @@
 ## Project Video Presentation
 [![Project Video Presentation](https://img.youtube.com/vi/FJckM1ae7LI/default.jpg)](https://youtu.be/FJckM1ae7LI)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FJckM1ae7LI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Python Libraries Used:
 - [NumPy](https://numpy.org/)
   - Modulized Division, Multiplication, Exponents, and Square Root
