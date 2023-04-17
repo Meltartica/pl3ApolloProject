@@ -4,9 +4,9 @@
 - [Python](https://www.python.org/) with [Conda Kernel](https://www.anaconda.com/products/distribution)
 
 ## Project Video Presentation
-[![Project Video Presentation](https://img.youtube.com/vi/FJckM1ae7LI/default.jpg)](https://youtu.be/FJckM1ae7LI)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FJckM1ae7LI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=FJckM1ae7LI" target="_blank">
+ <img src="http://img.youtube.com/vi/FJckM1ae7LI/mqdefault.jpg" alt="Project Video Presentation" width="540" height="360" border="10" />
+</a>
 
 ## Python Libraries Used:
 - [NumPy](https://numpy.org/)
