@@ -3,6 +3,9 @@
 ## Programming Language:
 - [Python](https://www.python.org/) with [Conda Kernel](https://www.anaconda.com/products/distribution)
 
+## Project Video Presentation
+[![Project Video Presentation](https://img.youtube.com/vi/FJckM1ae7LI/default.jpg)](https://youtu.be/FJckM1ae7LI)
+
 ## Python Libraries Used:
 - [NumPy](https://numpy.org/)
   - Modulized Division, Multiplication, Exponents, and Square Root
