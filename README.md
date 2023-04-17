@@ -4,6 +4,10 @@
 - [Python](https://www.python.org/) with [Conda Kernel](https://www.anaconda.com/products/distribution)
 
 ## Project Video Presentation
+- Video Link: https://youtu.be/FJckM1ae7LI
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=FJckM1ae7LI" target="_blank">
+ <img src="http://img.youtube.com/vi/FJckM1ae7LI/mqdefault.jpg" alt="Project Video Presentation" width="540" height="360" border="10" />
+</a>
 
 ## Python Libraries Used:
 - [NumPy](https://numpy.org/)
