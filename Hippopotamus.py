@@ -10,6 +10,7 @@ def lines():
 
 # Z critical region test
 def z_critical(z_statistic, alpha):
+    # choosing of critical region
     lines()
     critical_region = int(input(Fore.YELLOW + "Enter the Critical Region (1) Left, (2) Right, (3) Both: " +Style.RESET_ALL))
     lines()
@@ -20,11 +21,11 @@ def z_critical(z_statistic, alpha):
         critical_value = st.norm.ppf(alpha)
         p_value = st.norm.cdf(z_statistic)
 
-        #printing of the values
+        # displaying of the values
         print("The p-value is " + str(round(p_value,10)) + ".")
         print("The Critical Value is " + str(round(critical_value,4)) + ".")
 
-        # choosing the accept or reject the null hypothesis
+        # choosing to accept or reject the null hypothesis
         if z_statistic < critical_value:
             print(Fore.RED + "Reject The Null Hypothesis."+ Style.RESET_ALL)
         else:
@@ -68,6 +69,7 @@ def z_critical(z_statistic, alpha):
 
 # T critical Region
 def t_critical(t_stat, alpha, d_f):
+    # choosing of critical region
     lines()
     critical_region = int(input(Fore.YELLOW + "Enter the Critical Region (1) Left, (2) Right, (3) Both: " +Style.RESET_ALL))
     lines()
@@ -78,7 +80,7 @@ def t_critical(t_stat, alpha, d_f):
         critical_value = st.t.ppf(alpha, d_f)
         p_value = st.t.cdf(t_stat, d_f)
 
-        #printing of the values
+        #displaying of the values
         print("The P-Value is " + str(round(p_value, 5)) + ".")
         print("The Critical Value is " + str(round(critical_value, 4)) + ".")
 
@@ -255,7 +257,7 @@ def two_means_case_D():
     s_p2 = math.sqrt(pooled_std(n_1, n_2, s_1, s_2))
     numerator = (x_1 - x_2) - d_0
     root_term = np.divide(1, n_1) + np.divide(1, n_2)
-    denominator = np.multiply(np.sqrt(s_p2), np.sqrt(root_term))
+    denominator = np.multiply(s_p2, np.sqrt(root_term))
     d_f = n_1 + n_2 - 2
     t_statistic = np.divide(numerator, denominator)
     
